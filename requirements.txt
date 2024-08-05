@@ -1,0 +1,9 @@
+asyncpg
+aiogram==3.10.0
+APScheduler
+python-decouple
+psycopg2
+g4f
+nest_asyncio
+curl_cffi
+check_swear
